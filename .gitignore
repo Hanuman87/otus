@@ -13,3 +13,5 @@ wheels/
 .dvc/config.local
 .dvc/tmp
 .dvc/cache
+*.joblib
+/data
