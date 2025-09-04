@@ -9,3 +9,7 @@ wheels/
 # Virtual environments
 .venv
 *.csv
+.env
+.dvc/config.local
+.dvc/tmp
+.dvc/cache

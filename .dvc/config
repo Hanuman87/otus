@@ -1,0 +1,5 @@
+[core]
+    remote = dvc-shva
+['remote "dvc-shva"']
+    url = s3://dvc-shva/dvcstore
+    endpointurl = https://storage.yandexcloud.net
